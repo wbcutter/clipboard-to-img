@@ -3,9 +3,9 @@
 > 🚀 Công cụ web **hỗ trợ điện thoại & máy tính**: bấm nút "Dán từ Clipboard" → chọn ảnh từ bộ nhớ → xuất JPG ngay.  
 > **Tự động xử lý PNG trong suốt → nền trắng**, không cần Photoshop, hoạt động tốt trên iOS, Android, Windows, macOS.
 
-[![Live Demo](https://img.shields.io/badge/Demo-Xem%20ngay-brightgreen?style=for-the-badge&logo=github)](https://your-username.github.io/paste2jpg/)
+[![Live Demo](https://img.shields.io/badge/Demo-Xem%20ngay-brightgreen?style=for-the-badge&logo=github)]([https://your-username.github.io/paste2jpg/](https://wbcutter.github.io/clipboard-to-img/))
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Mobile Ready](https://img.shields.io/badge/Mobile-Friendly-Yes-blue)]()
+
 
 ---
 
